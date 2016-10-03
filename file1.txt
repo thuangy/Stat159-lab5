@@ -6,6 +6,6 @@ UserB modifies
 
 User A also modifies
 Here's another line
-
+Line 2 from User A
 
 
