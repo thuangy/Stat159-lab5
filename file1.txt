@@ -4,7 +4,8 @@ Line C
 
 UserB modifies
 
-
+User A also modifies
+Here's another line
 
 
 
