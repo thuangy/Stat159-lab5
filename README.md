@@ -1,5 +1,6 @@
 # Stat159-lab5
 User A: Tina Huang
+
 User B: Yoon Rho
 
 Task 1:
